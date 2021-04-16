@@ -1,4 +1,4 @@
-- 👋 Bonjour  tous, je suis @bricodx
+- 👋 Bonjour à tous, je suis @bricodx
 - 👀 J'aime les arduino et les raspberry PY, le modélisme et Farming Simulator :), mais j'aime aussi tout un tas d'autre trucs
 
 <!---
